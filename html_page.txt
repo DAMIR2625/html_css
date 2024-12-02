@@ -1,0 +1,8 @@
+<!doctype html>
+    <html>
+    <head>
+    </head>
+    <body>
+        <h1>Introduction to Odin's html and CSS basics</h1>
+            <p></p>
+    </body>
